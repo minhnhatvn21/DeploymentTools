@@ -72,7 +72,7 @@ sudo chmod +x /usr/local/bin/docker-compose
 Bước này chỉ cần thực hiện trên Local Server
 ### Tải về mã nguồn VNOJ Docker
 ```
-git clone --recursive https://github.com/VNOI-Admin/vnoj-docker.git
+git clone --recursive https://github.com/VNOI-Admin/vnoj-docker site
 cd vnoj-docker/dmoj
 ```
 Kể từ lúc này, các câu lệnh đằng sau sẽ có thư mục hiện hành là `/dmoj`
